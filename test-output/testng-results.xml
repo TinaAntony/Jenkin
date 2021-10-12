@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15893" started-at="2021-10-11T21:16:36 AEDT" finished-at="2021-10-11T21:16:52 AEDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15893" started-at="2021-10-11T21:16:36 AEDT" finished-at="2021-10-11T21:16:52 AEDT">
+      <class name="Framework.resMed.brokenImages">
+        <test-method status="PASS" signature="findBrokenImages()[pri:0, instance:Framework.resMed.brokenImages@7b69c6ba]" name="findBrokenImages" duration-ms="15832" started-at="2021-10-11T21:16:36 AEDT" finished-at="2021-10-11T21:16:52 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findBrokenImages -->
+      </class> <!-- Framework.resMed.brokenImages -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
